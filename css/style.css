@@ -38,3 +38,34 @@
 .header-section .ms-navbar a.ms-text-custom-2 {
     color: #fcfcfc;
 }
+
+.img-box-width {
+    width: 250px;
+}
+
+.ms-font-size {
+    font-size: 4rem;
+}
+
+.ms-bg-2 .row .ms-icon-box::after {
+    content: "";
+    display: inline-block;
+    margin:0 auto;
+    vertical-align: text-top;
+    border-radius: 10px;
+    width: 150px;
+    height: 4px;
+    background-color: #fff;
+
+}
+
+.ms-bg-2 .row .ms-icon-box::before {
+    content: "";
+    display: inline-block;
+    margin:0 auto;
+    vertical-align: text-top;
+    border-radius: 10px;
+    width: 150px;
+    height: 4px;
+    background-color: #fff;
+}
