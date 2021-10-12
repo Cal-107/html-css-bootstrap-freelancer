@@ -11,16 +11,6 @@
     background-color: #3a546d;
 }
 
-.debug-box {
-    /* height: 80px; */
-    border: 1px solid black;
-}
-
-.debug-box-2 {
-    height: 494px;
-    border: 1px solid black;
-}
-
 .debug-box-3 {
     background-color: #ba4b63;
     height: 360px;
@@ -37,4 +27,14 @@
     background-color: #ccc;
     height: 100px;
     border: 1px solid black;
+}
+
+/* header section */
+/* nav */
+.header-section .ms-navbar a.ms-text-custom {
+    font-size: 1.7rem;
+}
+
+.header-section .ms-navbar a.ms-text-custom-2 {
+    color: #fcfcfc;
 }
